@@ -1,0 +1,36 @@
+body {
+	 background-image: url("img/bg.gif");
+	font-family: 'Playfair Display', serif;
+                   font-size: 20px;
+                   background-position: center;
+                   background-repeat: no-repeat;
+                   background-size: cover; }
+	}
+
+
+/*----- Navigation-----*/
+#nav-bar
+{
+	position: relative;
+	top: 0;
+
+}
+.navbar-nav li
+{
+	padding: 0 70px;
+}
+.navbar-nav li a
+{
+	float: right;
+	text-align: left;
+}
+#nav-bar ul li a:hover
+{
+	color: sandybrown!important;
+}
+.nav-link
+{
+	color: #000000!important;
+	font-weight: 600;
+	font-size: 20px;
+
